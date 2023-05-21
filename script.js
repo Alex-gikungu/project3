@@ -1,8 +1,7 @@
-/*
 const cards = document.querySelectorAll('.card');
 let cardOne = null;
 let cardTwo = null;
-
+/*
 function flipCard(e) {
   let clickedCard = e.target.parentNode;
 
