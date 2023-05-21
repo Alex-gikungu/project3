@@ -9,23 +9,23 @@
 This is a click match memory game which structure is created using Html ,designed and styled using the Css and then scripted by javascript that helps to perform different functions in the website .
  ## Technology used.
 
-The click match memory game is created  using :
-1.Html
-2.Css
-3.Javascript 
-the html is used to create the structure of the game look.
-the Css is used to style and add design to the structure made through html
+The click match memory game is created  using :<br>
+1.Html<br>
+2.Css<br>
+3.Javascript <br>
+the html is used to create the structure of the game look.<br>
+the Css is used to style and add design to the structure made through html.<br>
 the Js is used to make performance happen in the structure such as to make the game start and more other tasks.                                                                    
  ## project set up installation and  instruction.
    Run ' https://github.com/Alex-gikungu/project3 '
     After cloning,open the project vs and modify it to your link.
- ## live link 
+ ## live link. 
   - https://alex-gikungu.github.io/project3/
  ## Authors information.
  slack Profile-Alex-gikungu
   email:alexigikungu.012@gmail.com
   phone:+254112043557
-   ## license .
+   ## license.
    The MIT license (MIT)
    
 Copyright (c) 2023  Irungu Alex Gikungu
