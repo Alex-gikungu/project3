@@ -15,7 +15,6 @@
     font-weight: 500;
     font-style: oblique;
 }
-/*
   .controls{
     display:grid;
 
@@ -35,6 +34,7 @@
       font-size: large;
       font-weight: 600;
 }
+/*
   .cards{
     display: grid;
     grid-template-columns:repeat(4,1fr);
