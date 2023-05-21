@@ -34,7 +34,6 @@
       font-size: large;
       font-weight: 600;
 }
-/*
   .cards{
     display: grid;
     grid-template-columns:repeat(4,1fr);
@@ -68,7 +67,7 @@
     
 }
 
-
+/*
 .card.clicked{
     background-color: orange;
 }
