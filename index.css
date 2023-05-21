@@ -70,7 +70,6 @@
 .card.clicked{
     background-color: orange;
 }
-/*
 .cards.card.clicked{
     background-color: greenyellow;
 }
@@ -78,7 +77,7 @@
     opacity: 1;
 }
 
-
+/*
   .flip {
     transform: rotateY(180deg);
   }
