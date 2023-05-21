@@ -13,9 +13,9 @@ The click match memory game is created  using :<br>
 1.Html<br>
 2.Css<br>
 3.Javascript <br>
-the html is used to create the structure of the game look.<br>
-the Css is used to style and add design to the structure made through html.<br>
-the Js is used to make performance happen in the structure such as to make the game start and more other tasks.                                                                    
+The html is used to create the structure of the game look.<br>
+The Css is used to style and add design to the structure made through html.<br>
+The Js is used to make performance happen in the structure such as to make the game start and more other tasks.                                                                    
  ## project set up installation and  instruction.
    Run ' https://github.com/Alex-gikungu/project3 '
     After cloning,open the project vs and modify it to your link.
