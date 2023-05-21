@@ -1,0 +1,121 @@
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: grid;
+    place-items:center;
+    min-height: 100vh;
+}
+.heading{
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: oblique;
+}
+
+  .controls{
+    display:grid;
+
+}
+.controls button{
+    background-color: yellow;
+    color:blue;
+    width:100px;
+    height:40px;
+    font-size: larger;
+    font-weight:800;
+    font-style: oblique;
+}
+.moves{
+      padding-top: 10px;
+      font-style:oblique;
+      font-size: large;
+      font-weight: 600;
+}
+  .cards{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-gap:2em;
+    background-color: blue;
+    padding: 40px;
+    border: 6px solid black;
+    border-radius:10px;
+}
+
+
+  .card{
+    height: 110px;
+    width: 90px;
+    background-color:aliceblue;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s all ease;
+    padding:10px;
+    align-items: center;
+
+}
+
+  .card img{
+    width:100%;
+    max-height:100px;
+    transition: 0.3s all ease;
+    opacity:0;
+    margin-top: 20%;
+    padding-left:0px;
+    
+}
+
+
+.card.clicked{
+    background-color: orange;
+}
+
+.cards.card.clicked{
+    background-color: greenyellow;
+}
+.card.flip img{
+    opacity: 1;
+}
+
+
+  .flip {
+    transform: rotateY(180deg);
+  }
+  
+  .vibration {
+    animation: vibration 0.4s linear;
+  }
+  
+  @keyframes vibration {
+    0% {
+      transform: translateX(-2px);
+    }
+    25% {
+        transform: translateX(2px);
+      }
+    50% {
+      transform: translateX(2px);
+    }
+    75% {
+        transform: translateX(2px);
+    }
+    100% {
+      transform: translateX(-2px);
+    }
+  }
+  
+*/
+
+
+
+
+
+
+
+
+
+
