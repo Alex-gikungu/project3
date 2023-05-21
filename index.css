@@ -77,7 +77,7 @@
     opacity: 1;
 }
 
-/*
+
   .flip {
     transform: rotateY(180deg);
   }
@@ -85,7 +85,7 @@
   .vibration {
     animation: vibration 0.4s linear;
   }
-  
+  /*
   @keyframes vibration {
     0% {
       transform: translateX(-2px);
