@@ -22,8 +22,8 @@ The Js is used to make performance happen in the structure such as to make the g
  ## live link. 
   - https://alex-gikungu.github.io/project3/
  ## Authors information.
- slack Profile-Alex-gikungu
-  email:alexigikungu.012@gmail.com
+ slack Profile-Alex-gikungu<br>
+  email:alexigikungu.012@gmail.com<br>
   phone:+254112043557
    ## license.
    The MIT license (MIT)
