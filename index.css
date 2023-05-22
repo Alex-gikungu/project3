@@ -85,6 +85,7 @@
   .vibration {
     animation: vibration 0.4s linear;
   }
+  /*
   @keyframes vibration {
     0% {
       transform: translateX(-2px);
@@ -103,8 +104,10 @@
     }
   }
   
-
-
+.startbtn.rotate{
+   transform: rotateY(180deg); 
+}
+*/
 
 
 
