@@ -82,7 +82,6 @@ function matchCards(img1, img2) {
     }, 1200);
   }
 }
-/*
 
   // Get the necessary elements
 
