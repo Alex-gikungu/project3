@@ -39,7 +39,6 @@ function updateTimer() {
     }
     timerElement.textContent = `Time: ${minutes} mins ${seconds} sec`;
 }
-/*
  const cards = document.querySelectorAll('.card');
 let cardOne = null;
 let cardTwo = null;
@@ -83,6 +82,7 @@ function matchCards(img1, img2) {
     }, 1200);
   }
 }
+/*
 
   // Get the necessary elements
 
