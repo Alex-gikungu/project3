@@ -1,4 +1,3 @@
-/*
 const startButton = document.getElementById("startbtn");
 const movesElement = document.getElementById("moves");
 const timerElement = document.getElementById("timer");
@@ -40,7 +39,7 @@ function updateTimer() {
     }
     timerElement.textContent = `Time: ${minutes} mins ${seconds} sec`;
 }
-
+/*
  const cards = document.querySelectorAll('.card');
 let cardOne = null;
 let cardTwo = null;
